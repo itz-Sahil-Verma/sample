@@ -1,2 +1,3 @@
 # sample
-for learning 
+Learning github 
+
